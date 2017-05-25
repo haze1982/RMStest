@@ -45,6 +45,7 @@ group :development do
   gem 'spring'
   gem 'activeadmin', '~> 1.0.0.pre1'
   gem 'activeadmin-translate'
+  gem 'activeadmin_addons'
   gem 'devise'
   gem 'devise-i18n'
 end
