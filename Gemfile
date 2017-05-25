@@ -49,3 +49,6 @@ group :development do
   gem 'devise-i18n'
 end
 
+gem 'winrm'
+gem 'delayed_job_active_record'
+gem 'active_decorator'
